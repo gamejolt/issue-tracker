@@ -1,7 +1,7 @@
 # Game Jolt Next Issue Tracker
 
-This is the issue tracker for Game Jolt Next! If you're one of the testers, feel free to add bugs and issues as you find them. If you're not a tester with access to Game Jolt Next (yet), you can still go ahead and look through the issue list to see what's being worked on. It might be interesting to follow along!
+This is the issue tracker for Game Jolt Next! Feel free to add any new bugs and issues you find as you come across them.
 
-**Please check to see if an issue is already known before posting.** We've primed the issue tracker with many known bugs that we're already working through. If you encounter a bug, there's a good chance we already know of the issue and have logged it, so be sure to do a quick search through the issue list before posting.
+**Before posting, check to see if an issue is already known.** There are a number of known bugs in the issue tracker already, and we're steadily working through them. If you encounter a bug, it may have already been reported, so do a quick search through the [list of issues](https://github.com/gamejolt/next-issue-tracker/issues) before adding a new issue.
 
-**Hold off on reporting issues related to performance.** We haven't done any performance optimizations yet. Expect jank and lag while switching pages and scrolling, and you may experience slow page loads in some places. Game pages in particular can get quite heavy at the moment. There's still a lot to be done as far as speeding up the site.
+**Don't report any issues related to performance.** Hold off on these for now. We still have a lot of optimization to do, so expect some jank and lag while pages load or when you scroll. In particular, game pages can get quite heavy at the moment. We're still working on speeding up the site.
